@@ -1,7 +1,7 @@
 Contributing to Esri China Open Source Projects
 =========================================
 
-Esri China welcomes contributions to our open source projects on Github(http://esri.github.io/).
+Esri China welcomes contributions to our open source projects on Github(https://github.com/serverteamCN).
 
 Issues
 ------
@@ -38,7 +38,7 @@ You can copy and paste the MIT license summary from below.
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) by Esri China
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
